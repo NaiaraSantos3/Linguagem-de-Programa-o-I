@@ -1,5 +1,5 @@
 
-//https://images.app.goo.gl/aBanh3HoVJhw8BqP8//
+//https://cidadedesaopaulo.com/wp-content/uploads/2022/07/livrariacultura.jpg//
 
 public class Prateleira { 
     private String corredor;

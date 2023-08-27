@@ -1,6 +1,6 @@
 import javax.swing.event.CaretListener;
 
-//https://images.app.goo.gl/aBanh3HoVJhw8BqP8//
+//https://cidadedesaopaulo.com/wp-content/uploads/2022/07/livrariacultura.jpg//
 
 public class Livro { 
     private String genero;
@@ -39,8 +39,5 @@ public class Livro {
 
     public void setPaginas(){
         this.paginas = paginas;
-    }
-
-
     }
 }

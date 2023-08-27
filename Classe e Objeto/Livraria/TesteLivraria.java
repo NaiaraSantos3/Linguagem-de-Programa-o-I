@@ -1,7 +1,8 @@
 public class TesteLivraria {
 public static void main(String[] args) {
-	Livro l1=new Livro("romance","autor","paginas")
-	
+	Livro l1=new Livro("romance","Stephenie Meyer","446");
+	Prateleira p1=new Prateleira("Central","Direito", "3");
+	Poltrona
 }
 
 
